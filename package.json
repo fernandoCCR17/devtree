@@ -1,0 +1,14 @@
+{
+  "name": "devtree",
+  "version": "1.0.0",
+  "description": "Primer proyecto del curso del profe juan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando de la Cruz Ramos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
